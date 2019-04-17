@@ -929,9 +929,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "C:\\Users\\devopsadmin\\Documents\\UiPath\\BlankProcess\\.local",
+      "projectPath": "F:\\Repository\\uipath\\BlankProcess\\.local",
       "packagesPath": "C:\\Users\\devopsadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devopsadmin\\Documents\\UiPath\\BlankProcess\\.local"
+      "outputPath": "F:\\Repository\\uipath\\BlankProcess\\.local"
     },
     "frameworks": {
       "net461": {
